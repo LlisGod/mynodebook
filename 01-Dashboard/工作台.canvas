@@ -1,0 +1,29 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 80,
+      "id": "4fe18304de671854",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "[[inbox|笔记统计表]]",
+      "type": "text",
+      "width": 220,
+      "x": -1300,
+      "y": -600
+    },
+    {
+      "file": "01-Dashboard/技能树.canvas",
+      "height": 400,
+      "id": "57564813ebc95758",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": -1300,
+      "y": -520
+    }
+  ]
+}

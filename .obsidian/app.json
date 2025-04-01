@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "03-Resources/Images",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02-Nodes",
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "03-Resources/"
+  ]
+}

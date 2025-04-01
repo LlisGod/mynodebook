@@ -1,0 +1,240 @@
+{
+  "edges": [
+    {
+      "fromNode": "946eed44d4c36813",
+      "fromSide": "right",
+      "id": "06c31023f41039f8",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toNode": "1596e14723cfbbea",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "946eed44d4c36813",
+      "fromSide": "right",
+      "id": "c8df7ccf34644a57",
+      "styleAttributes": {
+      },
+      "toNode": "8243cdd5a4787999",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "523502606a263415",
+      "fromSide": "top",
+      "id": "0e1f2a5138410382",
+      "styleAttributes": {
+      },
+      "toNode": "8cd2b674f66409f0",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8cd2b674f66409f0",
+      "fromSide": "bottom",
+      "id": "df354148ae4259d8",
+      "styleAttributes": {
+      },
+      "toNode": "523502606a263415",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "946eed44d4c36813",
+      "fromSide": "bottom",
+      "id": "cb164a60380a2c27",
+      "styleAttributes": {
+      },
+      "toNode": "6731e51236864914",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "946eed44d4c36813",
+      "fromSide": "right",
+      "id": "c8aa91c84c6c25f5",
+      "styleAttributes": {
+      },
+      "toNode": "f9bd7c7e2bfbfcfa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f9bd7c7e2bfbfcfa",
+      "fromSide": "top",
+      "id": "77622f4383cc07cc",
+      "styleAttributes": {
+      },
+      "toNode": "8243cdd5a4787999",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f9bd7c7e2bfbfcfa",
+      "fromSide": "top",
+      "id": "2bf2c2d3eb5a8294",
+      "styleAttributes": {
+      },
+      "toNode": "1596e14723cfbbea",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "c53bc6f49ad74a72",
+      "fromSide": "top",
+      "id": "3559d9952bfaf817",
+      "styleAttributes": {
+      },
+      "toNode": "523502606a263415",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "bde899c13b83685c",
+      "fromSide": "right",
+      "id": "e95331262682d860",
+      "styleAttributes": {
+      },
+      "toNode": "97762aad4e376b50",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 860,
+      "id": "882c5bb4c4ef9362",
+      "label": "需求",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1250,
+      "x": -1200,
+      "y": -800
+    },
+    {
+      "height": 60,
+      "id": "946eed44d4c36813",
+      "styleAttributes": {
+      },
+      "text": "个人主页",
+      "type": "text",
+      "width": 260,
+      "x": -1190,
+      "y": -570
+    },
+    {
+      "height": 60,
+      "id": "80f133fcc51061ce",
+      "styleAttributes": {
+      },
+      "text": "知识管理",
+      "type": "text",
+      "width": 260,
+      "x": -920,
+      "y": -380
+    },
+    {
+      "height": 60,
+      "id": "bde899c13b83685c",
+      "styleAttributes": {
+      },
+      "text": "要求：摆脱文件管理模式",
+      "type": "text",
+      "width": 260,
+      "x": -1180,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "8eea3cee1657d871",
+      "styleAttributes": {
+      },
+      "text": "增：全部放在一个文件夹里面",
+      "type": "text",
+      "width": 260,
+      "x": -1180,
+      "y": -690
+    },
+    {
+      "height": 60,
+      "id": "8243cdd5a4787999",
+      "styleAttributes": {
+      },
+      "text": "项目管理",
+      "type": "text",
+      "width": 260,
+      "x": -770,
+      "y": -570
+    },
+    {
+      "height": 60,
+      "id": "97762aad4e376b50",
+      "styleAttributes": {
+      },
+      "text": "用查找使用，脑图带来成就感",
+      "type": "text",
+      "width": 330,
+      "x": -760,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "f9bd7c7e2bfbfcfa",
+      "styleAttributes": {
+      },
+      "text": "pdf资源管理",
+      "type": "text",
+      "width": 260,
+      "x": -640,
+      "y": -450
+    },
+    {
+      "height": 60,
+      "id": "8cd2b674f66409f0",
+      "styleAttributes": {
+      },
+      "text": "技术博客撰写",
+      "type": "text",
+      "width": 260,
+      "x": -240,
+      "y": -570
+    },
+    {
+      "height": 60,
+      "id": "1596e14723cfbbea",
+      "styleAttributes": {
+      },
+      "text": "课程管理",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": -660
+    },
+    {
+      "height": 60,
+      "id": "6731e51236864914",
+      "styleAttributes": {
+      },
+      "text": "使用技巧",
+      "type": "text",
+      "width": 260,
+      "x": -980,
+      "y": -270
+    },
+    {
+      "height": 60,
+      "id": "c53bc6f49ad74a72",
+      "styleAttributes": {
+      },
+      "text": "学习新知识",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "523502606a263415",
+      "styleAttributes": {
+      },
+      "text": "笔记",
+      "type": "text",
+      "width": 260,
+      "x": -510,
+      "y": -270
+    }
+  ]
+}

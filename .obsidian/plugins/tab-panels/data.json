@@ -1,0 +1,7 @@
+{
+  "codeblockKeyword": "tabs",
+  "tabMarkerSyntax": "---",
+  "showNoTabWarning": true,
+  "highlightSelectedTabName": true,
+  "enableCaching": false
+}

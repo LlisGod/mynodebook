@@ -1,0 +1,11 @@
+{
+  "inlineai:show-cursor-tooltip": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}
