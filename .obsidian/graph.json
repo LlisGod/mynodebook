@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#BASE/NODE  ",
+      "query": "tag:#计算机  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:#BASE/MOC  ",
+      "query": "tag:#听课笔记  ",
       "color": {
         "a": 1,
-        "rgb": 16767892
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#项目记录  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -27,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.804498269896194,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121224,
-  "close": false
+  "scale": 0.5087618855792816,
+  "close": true
 }

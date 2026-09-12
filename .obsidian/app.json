@@ -1,11 +1,24 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "03-Resources/Images",
+  "attachmentFolderPath": "./attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "02-Nodes",
   "trashOption": "local",
   "userIgnoreFilters": [
     "03-Resources/"
-  ]
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "spellcheck": true,
+  "autoPairBrackets": false,
+  "strictLineBreaks": true,
+  "autoPairMarkdown": true,
+  "showUnsupportedFiles": true
 }

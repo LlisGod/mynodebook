@@ -1,0 +1,109 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1743690355511.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1743690355511,
+  "responses": {
+    "gen-1743698814-qYTYobvmdO0BlW7IOYZN": {
+      "id": "gen-1743698814-qYTYobvmdO0BlW7IOYZN",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "您好！请问有什么可以帮助您的吗？请告诉我具体的问题或需求，我会尽力为您解答。"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "gen-1743698814-qYTYobvmdO0BlW7IOYZN",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "您好！请问有什么可以帮助您的吗？请告诉我具体的问题或需求，我会尽力为您解答。"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    }
+  },
+  "messages": {
+    "user-1-1743698813710-1": 1,
+    "assistant-2-1743698815059-1": 2
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1743690355511",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743690355511",
+      "content": [
+        {
+          "type": "text",
+          "text": "如何？"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1743698813710-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1743698813710-1",
+      "key": "Untitled 1743690355511#user-1-1743698813710-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1743690355511",
+      "content": "您好！请问有什么可以帮助您的吗？请告诉我具体的问题或需求，我会尽力为您解答。",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1743698815059-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gen-1743698814-qYTYobvmdO0BlW7IOYZN",
+      "branch_i": "1743698815059-1",
+      "key": "Untitled 1743690355511#assistant-2-1743698815059-1"
+    }
+  ]
+}

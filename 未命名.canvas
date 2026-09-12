@@ -1,0 +1,307 @@
+{
+  "edges": [
+    {
+      "fromNode": "487729176dd620a5",
+      "fromSide": "right",
+      "id": "d5a4f78575d575ce",
+      "styleAttributes": {
+      },
+      "toNode": "ac44ef1d105bd3a6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "fab6de6fd422f6ab",
+      "fromSide": "right",
+      "id": "06ecc94e4ad6c849",
+      "styleAttributes": {
+      },
+      "toNode": "371cbd91797b5661",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a5cf5651d9f3306",
+      "fromSide": "right",
+      "id": "b504ecff13e5c9fd",
+      "styleAttributes": {
+      },
+      "toNode": "5014d57be2cdb5c6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a5cf5651d9f3306",
+      "fromSide": "right",
+      "id": "b0c1bc34776e514f",
+      "styleAttributes": {
+      },
+      "toNode": "09c2776e0543ac61",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a5cf5651d9f3306",
+      "fromSide": "right",
+      "id": "b197527fe600861b",
+      "styleAttributes": {
+      },
+      "toNode": "a87f01bd0f3fafac",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6a5cf5651d9f3306",
+      "fromSide": "right",
+      "id": "d27ebf16485514cd",
+      "styleAttributes": {
+      },
+      "toNode": "5f6041c6a6a51b06",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "406841c757f82e8d",
+      "fromSide": "right",
+      "id": "9fc7cdc69fc9991d",
+      "styleAttributes": {
+      },
+      "toNode": "1dc6660a12c8aaad",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ccb72984082159bc",
+      "fromSide": "bottom",
+      "id": "dd27451cf0417d6e",
+      "styleAttributes": {
+      },
+      "toNode": "fab6de6fd422f6ab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ccb72984082159bc",
+      "fromSide": "bottom",
+      "id": "cde9778b0dd265b8",
+      "styleAttributes": {
+      },
+      "toNode": "487729176dd620a5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f130b14972aaacb3",
+      "fromSide": "right",
+      "id": "94b3706a1fefe664",
+      "styleAttributes": {
+      },
+      "toNode": "6e9652fec4e34f1e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ccb72984082159bc",
+      "fromSide": "bottom",
+      "id": "5196cf939dafe0cf",
+      "styleAttributes": {
+      },
+      "toNode": "f130b14972aaacb3",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 100,
+      "id": "a1f61a4ab2f4b486",
+      "label": "地狱交通",
+      "type": "group",
+      "width": 320,
+      "x": -440,
+      "y": -500
+    },
+    {
+      "height": 60,
+      "id": "a87f01bd0f3fafac",
+      "styleAttributes": {
+      },
+      "text": "粘液球",
+      "type": "text",
+      "width": 100,
+      "x": -120,
+      "y": 300
+    },
+    {
+      "height": 60,
+      "id": "5f6041c6a6a51b06",
+      "styleAttributes": {
+      },
+      "text": "骨粉",
+      "type": "text",
+      "width": 100,
+      "x": -120,
+      "y": 400
+    },
+    {
+      "height": 60,
+      "id": "9d1bc16ba269d88d",
+      "styleAttributes": {
+      },
+      "text": "末地",
+      "type": "text",
+      "width": 80,
+      "x": -220,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "ccb72984082159bc",
+      "styleAttributes": {
+      },
+      "text": "家",
+      "type": "text",
+      "width": 70,
+      "x": -430,
+      "y": -480
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "fab6de6fd422f6ab",
+      "styleAttributes": {
+      },
+      "text": "简易刷铁机",
+      "type": "text",
+      "width": 140,
+      "x": -220,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "371cbd91797b5661",
+      "styleAttributes": {
+      },
+      "text": "铁",
+      "type": "text",
+      "width": 60,
+      "x": 40,
+      "y": -320
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "487729176dd620a5",
+      "styleAttributes": {
+      },
+      "text": "刷石机",
+      "type": "text",
+      "width": 100,
+      "x": -450,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "6a5cf5651d9f3306",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "沼泽刷怪塔",
+      "type": "text",
+      "width": 140,
+      "x": -450,
+      "y": 240
+    },
+    {
+      "height": 60,
+      "id": "406841c757f82e8d",
+      "styleAttributes": {
+      },
+      "text": "树场",
+      "type": "text",
+      "width": 80,
+      "x": -450,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "ac44ef1d105bd3a6",
+      "styleAttributes": {
+      },
+      "text": "原石",
+      "type": "text",
+      "width": 80,
+      "x": -160,
+      "y": -40
+    },
+    {
+      "height": 60,
+      "id": "1dc6660a12c8aaad",
+      "styleAttributes": {
+      },
+      "text": "木头",
+      "type": "text",
+      "width": 100,
+      "x": -160,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "5014d57be2cdb5c6",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "火药",
+      "type": "text",
+      "width": 80,
+      "x": -130,
+      "y": 200
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "09c2776e0543ac61",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "红石",
+      "type": "text",
+      "width": 80,
+      "x": -130,
+      "y": 300
+    },
+    {
+      "height": 60,
+      "id": "6e9652fec4e34f1e",
+      "styleAttributes": {
+      },
+      "text": "绿宝石",
+      "type": "text",
+      "width": 100,
+      "x": 40,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "f130b14972aaacb3",
+      "styleAttributes": {
+      },
+      "text": "村民交易",
+      "type": "text",
+      "width": 120,
+      "x": -230,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "7336bf83736e6eab",
+      "styleAttributes": {
+      },
+      "text": "末影之眼",
+      "type": "text",
+      "width": 120,
+      "x": 40,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "bce76de512f6130b",
+      "styleAttributes": {
+      },
+      "text": "小黑塔",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": -180
+    }
+  ]
+}

@@ -25,6 +25,10 @@
     "excalidraw-css": "text",
     "excalidraw-autoexport": "text",
     "excalidraw-embeddable-theme": "text",
-    "excalidraw-open-md": "checkbox"
+    "excalidraw-open-md": "checkbox",
+    "快速链接": "multitext",
+    "开发时间": "date",
+    "相关笔记": "multitext",
+    "技术栈": "multitext"
   }
 }

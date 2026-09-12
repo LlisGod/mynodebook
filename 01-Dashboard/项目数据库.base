@@ -1,0 +1,19 @@
+views:
+  - type: cards
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("00-项目/0项目集")
+    order:
+      - file.name
+      - 开发时间
+      - 项目职责
+      - 技术栈
+      - 项目地址
+      - 项目简介
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.开发时间: 127
+      note.技术栈: 502

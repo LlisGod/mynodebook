@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4b7e55b14ea4383c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7eb0fb0426e21890",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Dashboard/MOCmap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MOCmap"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -53,11 +51,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Base/MOC",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 502.5
   },
   "right": {
     "id": "4deab13cba685cc6",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Resources/PDF/高等数学第8版上册+.pdf",
+                "file": "02-Nodes/计算机基础/环境变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "高等数学第8版上册+ 的反向链接列表"
+              "title": "环境变量 的反向链接列表"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Nodes/Year2：领域深入（主导中型项目）.md",
+                "file": "02-Nodes/计算机基础/环境变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Year2：领域深入（主导中型项目） 的出链列表"
+              "title": "环境变量 的出链列表"
             }
           },
           {
@@ -127,9 +125,9 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -142,143 +140,105 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Inbox/工作台.canvas",
-                "followCursor": false,
+                "file": "02-Nodes/计算机基础/环境变量.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作台 的大纲"
+              "title": "环境变量 的大纲"
             }
           },
           {
-            "id": "3588f46a6be81d4c",
+            "id": "9c1acc178a235ef3",
             "type": "leaf",
             "state": {
-              "type": "smtcmp-chat-view",
+              "type": "git-graph",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
-          },
-          {
-            "id": "ea9858ee9d1f390c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
-            }
-          },
-          {
-            "id": "cc82c0601417eeaf",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
-          },
-          {
-            "id": "cb3c35735816277a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "cbe88e4104fe2515",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "git-graph",
+              "title": "Git graph"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-spaced-repetition:复习卡片": false,
+      "graph:查看关系图谱": false,
+      "random-note:开始漫游笔记": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "media-extended:Open media": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "smart-connections:Open: View Smart Connections": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-composer:Open smart composer": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-kanban:创建新看板": false,
+      "git-graph:Open Git graph": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7eb0fb0426e21890",
   "lastOpenFiles": [
-    "01-Dashboard/我的简历.md",
-    "01-Dashboard/MOCmap.md",
-    "01-Dashboard/技能树.canvas",
+    "02-Nodes/未命名看板.md",
+    "02-Nodes/未命名.base",
+    "02-Nodes/springboot/统一响应.md",
+    "02-Nodes/springboot/springboot工程搭建-简易版.md",
+    "02-Nodes/前端/Flex布局.md",
+    "02-Nodes/springboot/0-springboot.md",
+    "02-Nodes/vue/Vue3项目启动.md",
+    "02-Nodes/vue/初步开发vue项目-来个新页面.md",
+    "02-Nodes/aseprite编译.md",
+    "00-项目/0项目集/无人机巡检平台.md",
+    "00-项目/0项目集/花卉检测系统.md",
+    "00-项目/0项目集/苍穹外卖.md",
+    "01-Dashboard/项目数据库.base",
     "01-Dashboard/工作台.canvas",
-    "演示/算法学习.md",
-    "演示/年度计划.md",
-    "02-Nodes/前端突击路线MOC.md",
-    "仓库使用手册 V1.2.md",
-    "01-Dashboard/README.md",
-    "演示",
-    "01-Dashboard/ob使用的奥卡姆剃刀.canvas",
-    "01-Dashboard/inbox.md",
+    "01-Dashboard/技术.md",
+    "01-Dashboard/简历.md",
+    "01-Dashboard/个人介绍.md",
+    "00-项目/0项目集/ll-auth认证中心.md",
+    "00-项目/简历生成工具/分析文档.md",
+    "00-项目/我的个人网站/个人网站需求文档.md",
+    "00-项目/简历生成工具",
+    "02-Nodes/前端/HTML核心语法.md",
+    "00-项目/我的个人网站",
+    "02-Nodes/前端/html-css基础.md",
+    "02-Nodes/前端/grid和Flex布局的区别.md",
+    "02-Nodes/前端/Grid布局.md",
+    "02-Nodes/前端/CSS生存指南.md",
+    "02-Nodes/前端/用flex快速生成架构原型.md",
+    "02-Nodes/前端/事件循环.md",
+    "02-Nodes/前端/盒模型.md",
+    "02-Nodes/springboot/01-springboot.base",
+    "02-Nodes/计算机基础",
+    "02-Nodes/面试经验",
+    "02-Nodes/springboot/springboot组件库/attachments/PageHelper-2.png",
+    "02-Nodes/springboot/springboot组件库/attachments/PageHelper-1.png",
+    "02-Nodes/springboot/attachments/filter功能演示.png",
+    "00-项目/北大青鸟aiagent课程",
+    "00-项目/苍穹外卖",
+    "02-Nodes/数据结构/灵山题单",
+    "未命名.canvas",
+    "02-Nodes/渡一前端大师课/attachments/面试题2.png",
+    "02-Nodes/渡一前端大师课/attachments/面试题3.png",
+    "02-Nodes/渡一前端大师课/attachments/渲染主线程的消息队列.png",
+    "02-Nodes/1-零散笔记/attachments/Pasted image 20260325150856.png",
+    "03-Resources/Images/Pasted image 20250509222645.png",
+    "03-Resources/Images/Pasted image 20250509230115.png",
+    "03-Resources/Images/渗透-P1.png",
     "01-Dashboard/架构.canvas",
-    "02-Nodes/成为技术大牛.md",
-    "02-Nodes/技术大牛.md",
-    "02-Nodes/盒模型.md",
-    "02-Nodes/大学物理B2重修README.md",
-    "仓库使用手册 V1.1.md",
-    "02-Nodes/STAR 法则.md",
-    "02-Nodes/Spaced Repetition 使用说明.md",
-    "02-Nodes/Smart Connections 使用说明.md",
-    "02-Nodes/SCQA 模型.md",
-    "02-Nodes/PAS 框架.md",
-    "02-Nodes/Media Extended 视频笔记插件.md",
-    "02-Nodes/Media Extended 插件说明.md",
-    "02-Nodes/Markdown 语法学习文档.md",
-    "02-Nodes/Inline AI 设置教程.md",
-    "02-Nodes/HTML核心语法.md",
-    "02-Nodes/grid和Flex布局的区别.md",
-    "02-Nodes/Grid布局.md",
-    "03-Resources/PDF/高等数学第8版上册+.pdf",
-    "03-Resources/Images/17118430001078.webp",
-    "03-Resources/Images/17118430001099.webp",
-    "03-Resources/Images/17118430001062.webp",
-    "03-Resources/Images/小红书 Notion 课程.001-tuya.jpeg",
-    "03-Resources/Images/小红书 Notion 课程.003.jpeg",
-    "03-Resources/Images/小红书 Notion 课程.005-tuya.jpeg",
-    "03-Resources/Images/Obsidian20250318思路 - Obsidian 懒人插件包 - Obsidian v1.8.9010456@2x.png",
-    "03-Resources/Images/Obsidian20250318思路 - Obsidian 懒人插件包 - Obsidian v1.8.9010454@2x.png",
-    "03-Resources/Images/Obsidian20250225Smart Connections 使用说明 - Obsidian 懒人插件包 - Obsidian v1.8.7010153@2x.png",
-    "03-Resources/Images/一口气了解关税PT22M9S.jpeg",
-    "03-Resources/PDF/高等数学第8版上册+.pdf.wxdownload",
-    "03-Resources/PDF/纳瓦尔宝典：财富与幸福指南.pdf",
-    "Excalidraw",
-    "02-Nodes/待处理",
-    "01-Projects/Courses/大物B2/0. 大学物理实验B2-查询上课信息说明 - 腾讯微云.ppt",
-    "01-Projects/Courses/大物B2/周四学生分组轮换表/(周四晚上B2-3--张小丽、周超兰、刘敬欣)-大物B2实验轮换表-23级大数据[1-3]班，23级计算机[1-3]班.xlsx",
-    "01-Projects/Courses/大物B2/讲义-课件-实验报告模版等/9. 多普勒效应测量声速（讲义）.doc",
-    "01-Projects/Courses/大物B2/讲义-课件-实验报告模版等/8. 牛顿环测平凸透镜的曲率半径（课件）.pptx",
+    "01-Dashboard/技能树.canvas",
+    "00-项目/sql实验12-er图/未命名.canvas",
+    "00-项目/sql项目-在线多人任务协作/未命名 1.canvas",
+    "00-项目/sql项目-在线多人任务协作/未命名.canvas",
+    "01-Dashboard/ob使用的奥卡姆剃刀.canvas",
     "工作台.canvas"
   ]
 }

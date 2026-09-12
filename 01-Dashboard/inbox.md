@@ -1,6 +1,6 @@
 ---
 tags:
-  - Base/Dashboard
+  - AT/Dashboard
 ---
 
 ````tabs
@@ -17,6 +17,7 @@ LIMIT 15
 TASK
 FROM ""
 GROUP BY completed
+limit 10
 
 ```
 
