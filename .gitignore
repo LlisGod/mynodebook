@@ -1,7 +1,8 @@
-# ===== 敏感文件：包含 API Key / 恢复码，禁止提交 =====
-.smart-env/smart_env.json
-.obsidian/plugins/copilot/data.json
-.obsidian/plugins/smart-composer/data.json
-.obsidian/plugins/inlineai/data.json
-.obsidian/plugins/smart-connections/main.js
+# ===== 点开头文件夹：插件配置 / 索引 / 聊天记录 / 回收站，全部忽略 =====
+.obsidian/
+.smart-env/
+.smtcmp_chat_histories/
+.trash/
+
+# ===== 敏感文件：GitHub 恢复码等 =====
 mostimportant/
