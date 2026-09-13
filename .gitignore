@@ -4,5 +4,6 @@
 .smtcmp_chat_histories/
 .trash/
 
-# ===== 敏感文件：GitHub 恢复码等 =====
+# ===== 敏感文件：GitHub 恢复码、向量库 =====
 mostimportant/
+.smtcmp_vector_db.tar.gz
