@@ -1,0 +1,7 @@
+# ===== 敏感文件：包含 API Key / 恢复码，禁止提交 =====
+.smart-env/smart_env.json
+.obsidian/plugins/copilot/data.json
+.obsidian/plugins/smart-composer/data.json
+.obsidian/plugins/inlineai/data.json
+.obsidian/plugins/smart-connections/main.js
+mostimportant/
